@@ -1,0 +1,92 @@
+.navbar{
+    background-color: black;
+    color:  white;
+    padding-top: 8px;
+}
+.navbar ul{
+    margin-top: 8px;
+    list-style: none;
+    padding-left: 49%;
+    height: 50px;
+}
+
+.navbar li{
+    display: inline-block;
+    padding-left: 30px;
+    padding-right: 30px;
+    height: 50px;
+}
+
+.list{
+    color: white;
+}
+
+.shrek{
+    margin-top: 8px;
+    margin-left: 8px;
+    height: 35px;
+    width: 50px;
+    align-items: left;
+}
+
+.text{
+    align-items: center;
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding-top: 15%;
+}
+
+.text h1{
+    font-size: 40px;
+}
+
+.text p{
+    font-size: 14px;
+}
+
+.generator{
+    color: #31F47D;
+    text-align: right;
+    margin-left: 5px;
+    padding-top: 14px;
+}
+
+.button{
+    background-color: #31F47D;
+    border-radius: 5px;
+    border-color: #31F47D;
+    box-shadow: 1px 14px 28px 0px rgba(29,168,118,0.72);
+-webkit-box-shadow: 1px 14px 28px 0px rgba(29,168,118,0.72);
+-moz-box-shadow: 1px 14px 28px 0px rgba(29,168,118,0.72);
+}
+
+.button:hover {
+    background-color: #4ab172;
+  }
+
+.footer{
+    background: #000;
+}
+
+.icon{
+    height: 12;
+    width: 4;
+    padding-top: 11px;  
+    padding-right: 7px; 
+}
+
+.box{
+    padding-top: 0%;
+    padding-bottom: 0%;
+    padding-left: 0%;
+    align-items: left;
+    text-align: left;
+    background: #000;
+}
+
+.engine{
+    height: 32px;
+    width: 35px;
+    border-radius: 3px;
+}
