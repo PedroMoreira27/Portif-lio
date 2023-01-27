@@ -1,0 +1,174 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url("/LojaPerifericos/img/BGperifericos.png");
+    font-style: sans-serif;
+    background-repeat: no-repeat;
+    background-color: rgb(10, 10, 10);
+}
+
+.navbar ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar li{
+    display: inline-block;
+    margin-left: 1%;
+    margin-right: 1%;
+}
+
+h2{
+    margin: 0%;
+}
+
+.box{
+    color: black;
+    background-color: white;
+    border-radius: 1px;
+    display: inline-block;
+    padding-right: 10px;
+    padding-left: 10px;
+    font-style: italic;
+    margin-left: 100px;
+}
+
+.textlogo{
+    font-size: 30px;
+    margin-bottom: 0;
+    margin-top: 6px;
+}
+
+.boxdate{
+    color: white;
+    background-color: rgb(31, 30, 30);
+    border-radius: 1px;
+    font-size: 10px;
+    display: inline-flex;
+}
+
+.boxperi{
+    margin-top: 22px;
+
+}
+
+.boxperi p{
+    margin-left: 5px;
+    margin-right: 10px;
+}
+
+.boxperi img{
+    margin-left: 5px;
+}
+
+img{
+    margin-top: 3%;
+    height: 15px;
+    width: 15px;
+}
+
+.btn{
+    float: right;
+    background-color: white;
+    color: black;
+    border-radius: 1px;
+    padding:  5px;
+    padding-bottom: 10px;
+    margin-right: 80px;
+    font-size: 12px;
+}
+
+.btn img{
+    margin-top: 1px;
+}
+
+.btn a{
+    margin-bottom: 3%;
+}
+
+#notify{
+    background-color: deeppink;
+    border-radius: 100%;    
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.logo{
+    float: left;
+    color: white;
+    align-items: baseline;
+    margin-top: 5px;
+    transform: skewX(-10deg);
+}
+
+
+.btnnot{
+    margin-top: 20px;
+    float: right;
+}
+
+section img{
+    height:500px;
+    width: 500px;
+    margin-top: 0;
+}
+
+.container{
+    display: inline-flex;
+    width: 1000px;
+}
+
+.headset{
+    color: rgb(255, 196, 0);
+    margin-top: 300px;
+    margin-left: 9%;
+    margin-right: 0px;
+}
+
+.headset p{
+    margin-bottom: 5px;
+    font-size: 10px;
+}
+
+.teclado{
+    margin-top: 400px;
+    margin-left: 2%;
+}
+
+.teclado p{
+    color: rgb(255, 196, 0);
+    margin-top: 40px;
+    margin-bottom: 5px;
+    font-size: 10px;
+}
+
+.links{
+    margin-left: 370px;
+    margin-bottom: 0;
+}
+
+#link{
+    color: white;
+    text-decoration: none;
+    margin-left: 15px;
+}
+
+#descricao{
+    font-size: medium;
+    color: white;
+    text-decoration: none;
+}
+
+#preco{
+    font-size: medium;
+    color: rgb(255, 196, 0);
+    text-decoration: none;
+    margin-left: 51%;
+}
+
+#preco2{
+    font-size: medium;
+    color: rgb(255, 196, 0);
+    text-decoration: none;
+    margin-left: 242px;
+}
